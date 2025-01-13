@@ -22,7 +22,7 @@ export const Navbar = ({data}) => {
                               return {
                                     color: event.isActive ? "Orange" :"" ,
                                     fontWeight: event.isActive ? "bold" :""
-                              }}} to="/home" className={"hover:text-orange-400"}>Home</NavLink>
+                              }}} to="/" className={"hover:text-orange-400"}>Home</NavLink>
                               <NavLink style={(event) => {
                               return {
                                     color: event.isActive ? "Orange" :"" ,
