@@ -73,7 +73,7 @@ const Cart = () => {
 
                                           <div className='flex justify-between text-xl bg-orange-400 text-white py-2 px-3'>
                                                 <h1>Total Order</h1>
-                                                <h1>$232</h1>
+                                                <h1>$20</h1>
                                           </div>
 
                                           <div className='bg-[#323236] mt-4 flex text-center w-full text-white text-xl'>
